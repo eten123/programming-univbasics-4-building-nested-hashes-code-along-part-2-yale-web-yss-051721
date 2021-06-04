@@ -75,7 +75,7 @@ def add_characters
   epic_tragedy[:additional_characters] << prince
   epic_tragedy[:additional_characters] << apothecary
   
-  # we are pushing the key(prince) and its corresponding value which in this case is prince and apothecary into the epic tragedy overall hash and then into the file additonal_characters. There are many ways to do this but it is important to have epic_tragedy or the big hash as the first line in this case. 
+  # we are pushing the key(prince) and its corresponding value which in this case is prince and apothecary into the big epic tragedy hash and then specifically into the file additonal_characters. There are many ways to do this but it is important to always have epic_tragedy or the big hash as the first item in the code as shown in this case. 
   
 
 
